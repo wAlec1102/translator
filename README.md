@@ -1,4 +1,4 @@
-<img src="resources/static/insomnia.png" style="zoom:15%;" />
+<img src="resources/static/insomnia.png" width="20%" height="20%"/>
 
 # Translator
 
