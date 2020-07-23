@@ -14,9 +14,7 @@ This program is developed  to translate foreign languages in pictures, audio, an
 
 ### Intention
 
-​		Recently I become a fan of Dreamcatcher which is a Kpop group. The live show or video are almost in korean which means I have to wait for subtitle group to do the translation. Foreigin TV series has the same issue as well, so I decide to  make a program to do all this.
-
-YouTube and Google has made great job on this, but it's need to upload file. I want to make it more flexible and lightweight. 
+Recently I become a fan of Dreamcatcher which is a Kpop group. The live show or video are almost in korean which means I have to wait for subtitle group to do the translation. Foreigin TV series has the same issue as well, so I decide to  make a program to do all this.YouTube and Google has made great job on this, but it's need to upload file. I want to make it more flexible and lightweight. 
 
 ### Features to release
 
