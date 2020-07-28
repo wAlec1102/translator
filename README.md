@@ -6,7 +6,7 @@ This program is developed  to translate foreign languages in pictures, audio, an
 
 [![Tag](https://img.shields.io/badge/Dreamcatcher-inSomnia-purple.svg)]()
 
-[![Tag](https://img.shields.io/badge/status-developing-blue.svg)]()
+[![Tag](https://img.shields.io/badge/status-pause-blue.svg)]()
 
 [![Tag](https://img.shields.io/badge/language-python-yellow.svg)]()
 
